@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- REPLACE example.com with the bought domain before submitting to Search Console -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/index.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/8171-web-portal.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/pmt-score-check.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/8171-check-by-sms.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/taleemi-wazaif-check.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/bisp-payment-14500.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/bisp-registration-survey.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://example.com/bisp-complaint-helpline.html</loc><lastmod>2026-11-24</lastmod></url>
+</urlset>
